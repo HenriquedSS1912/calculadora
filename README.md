@@ -14,7 +14,7 @@ Usei como referência a calculadora do MAC e embora seja um projeto relativament
 ## 📦 Desenvolvimento
 
 * Entendi a lógica da calculadora
-* Desenvolvi o projeto utilizando os componentes do React Native, como o state, View, Text, StyleSheet, Buttons e etc.
+* Desenvolvi o projeto utilizando os componentes do React Native, como o state, View, Text, StyleSheet, Button e etc.
 
 ## 🛠️ Construído com
 
